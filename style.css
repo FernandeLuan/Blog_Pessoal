@@ -32,12 +32,10 @@ button{
 
     background: linear-gradient(to right,  rgba(28, 42, 51, 0.432), rgba(148, 185, 197, 0.315));
     font-size: 15px;
-    display: center;
-    max-width: 10rem;
-    padding: 10px;
+    padding: 8px 10px 8px 10px;
     border-radius: 10px;
     text-decoration: none;
-   /* margin: 0 10px 0 10px; */
+   margin: 2px;
    border-width: 0px;
    transition: transform 0.5s;
    cursor: pointer;
